@@ -1,0 +1,16 @@
+{
+  "name": "aproject",
+  "version": "1.0.0",
+  "description": "A fledgling Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "thatgreenguy",
+  "license": "ISC",
+  "private": true,
+  "devDependencies": {
+    "nodeignore": "^0.3.2",
+    "webpack": "^1.12.9"
+  }
+}
